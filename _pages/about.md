@@ -1,13 +1,16 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Biography"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Xiao Liu is an Associate Professor in the Department of Physics at the University of Science and Technology of China (USTC) and a member of the CAS Key Laboratory of Quantum Information. He received his B.S. in Physics from Shandong University (2014) and Ph.D. from USTC (2019), where he worked under the supervision of Professors Chuanfeng Li and Zongquan Zhou.
+His research interests lie in quantum information science, with a particular focus on solid-state quantum memories based on rare-earth ions. His pioneering work includes the development of high-performance quantum light sources and quantum memories, implementation of time-multiplexed quantum repeaters, and demonstration of nonlocal quantum gates over a record distance of 7 kilometers. These achievements have significantly advanced the field of long-distance quantum communication.
+His research has appeared in leading scientific journals including Nature, Nature Communications, and npj Quantum Information. One of his publications has been recognized as an ESI Highly Cited Paper. He holds patents in the United States and United Kingdom for his innovations in quantum technology. In recognition of his contributions, his work was selected as one of the "Top 10 Scientific and Technological Advances in China" and "Top 10 Scientific and Technological Advances in Chinese Universities" in 2021.
+Dr. Liu's research is currently supported by grants from the National Natural Science Foundation of China, including both a General Program and a Young Scientists Fund. He is a recipient of the Young Elite Scientists Sponsorship Program from the China Association for Science and Technology.
 
 A data-driven personal website
 ======
